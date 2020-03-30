@@ -1,0 +1,3 @@
+{"_id":{"$oid":"5e7293551ca3811268396cad"},"id":"1","nombre":"Blanco Cervantes","detalles":{"ubicacion":"San Jose","provincia":"San Jose"},"telefonos":["22982983","22282883","22982981"]}
+{"_id":{"$oid":"5e7293e31ca3811268396cae"},"id":"2","nombre":"San Juan de Dios","detalles":{"ubicacion":"San Jose","provincia":"San Jose"},"telefonos":["22983983","22228383","22986981"]}
+{"_id":{"$oid":"5e7294971ca3811268396caf"},"id":"3","nombre":"Mexico","detalles":{"ubicacion":"Uruca","provincia":"San Jose"},"telefonos":["22983483","21228383","22986951"]}

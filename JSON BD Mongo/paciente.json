@@ -1,0 +1,3 @@
+{"_id":{"$oid":"5e728f081ca3811268396cab"},"id":"1","nombre":"francisco","años":"20","apellido":"lopez","apellido2":"perez","detalles":{"residencia":"San Jose","provincia":"San Jose"},"medicinas":["Paracetamol","Ibuprofeno","Antibiotico"]}
+{"_id":{"$oid":"5e72910a1ca3811268396cac"},"id":"2","nombre":"luciana","años":"18","apellido":"lopez","apellido2":"bermudez","detalles":{"residencia":"Desamparados","provincia":"San Jose"},"medicinas":["Acitretin","Adenosine","Benzocaine"]}
+{"_id":{"$oid":"5e7296461ca3811268396cb1"},"id":"3","nombre":"Julian","años":"34","apellido":"Chinchilla","apellido2":"Mendez","detalles":{"residencia":"Aserri","provincia":"San Jose"},"medicinas":["Acitretin","Carbidopa","Carfilzomib"]}
